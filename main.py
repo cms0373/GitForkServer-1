@@ -3,8 +3,8 @@
 #
 print("Hello World 1 in local team leader server")
 
-print("Hello World 2 in local team leader server")
+print("Update in leader")
 
-print("Hello World 3 in team member A local server")
+print("Update in local [A]")
 
-
+print("Update in local [B]")
